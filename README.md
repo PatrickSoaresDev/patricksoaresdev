@@ -1,8 +1,8 @@
-##Olá! Eu sou o Patrick Soares 
+##Seja Bem Vindo!
 
-- 🔭 Eu estou trabalhando com Javascript/typescript, usando os frameworks VueJS para o Front-end e NestJS para o back-end
-- 🌱 Estudando Typescript, Java, Flutter.
-- 😄 Pronouns: ele/dele
+- 🔭 Trabalho atualmente com Typescript, Javascript e Java. No front, constumo usar VueJS, no back, uso NestJS. Java trabalho com SpringBoot.
+- 🌱 Estudando Typescript, React, .Net, Java, Flutter.
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/patricksoaresdev">
@@ -25,6 +25,6 @@
   <a href="https://www.linkedin.com/in/patrick-soares-929741163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   <div>  
-    ![Snake animation](https://github.com/PatrickSoaresDev/PatrickSoaresDev/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/patricksoaresdev/patricksoaresdev/blob/output/github-contribution-grid-snake.svg)
   </div>
   
