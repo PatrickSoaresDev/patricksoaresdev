@@ -1,7 +1,5 @@
 ## Seja Bem Vindo!
 
-- 🔭 Trabalho atualmente com Typescript, Javascript e Java. No front, constumo usar VueJS, no back, uso NestJS. Java trabalho com SpringBoot.
-- 🌱 Estudando Typescript, React, .Net, Java, Flutter.
 - 😄 Pronomes: ele/dele
 
 <div align="center">
